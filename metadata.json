@@ -1,0 +1,5 @@
+{
+  "name": "中国外语口语考试招投标情报系统",
+  "description": "基于 Gemini AI 和 Google Search Grounding 的中国学业水平外语口语考试招投标数据分析与情报平台。",
+  "requestFramePermissions": []
+}
